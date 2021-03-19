@@ -1,17 +1,8 @@
-# Let's Write a Python Quote Bot!
+# PyCodeHub
 
-This repository will get you started with building a quote bot in Python. It's meant to be used along with the [Learning Lab](https://lab.github.com) intro to Python.
+Hi Guys,
 
-When complete, you'll be able to grab random quotes from the command line, like this:
-
-> **$** python get-quote.py
-> 
-> Keep it logically awesome
-> 
-> **$** python get-quote.py
-> 
-> Speak like a human
-
-## Start the Tutorial
-
-You can find your next step in [this repo's issues](../../issues/)!
+  I am Praveena Jaladi. I am interested to work with Python and Sql.
+  I named my Repository as PyCodeHub.From now onwards...let's start make discussions on Python Coding, Data Science Concepts and so on...
+  
+ Thank You
