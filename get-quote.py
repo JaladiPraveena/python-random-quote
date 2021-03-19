@@ -1,11 +1,9 @@
-def main():
-  # print("Keep it logically awesome.")
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Mar 19 20:56:25 2021
 
-  #f = open("quotes.txt")
-  #quotes = f.readlines()
-  #f.close()
+@author: DELL
+"""
 
-  #print(quotes)
 
-if __name__== "__main__":
-  main()
+print("Keep it Logically awesome")
